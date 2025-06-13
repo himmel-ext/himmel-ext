@@ -1,6 +1,6 @@
 # 👋 Halo, Saya [Nama Anda]! 
 
-[![Header](https://github.com/himmel-ext/himmel-ext/blob/main/assets/header-github.png)](https://your-portfolio-link.com)
+[![Header](https://avatars.githubusercontent.com/u/216211112?v=4)](https://www.himmel.web.id)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himmel-ext&label=Profile%20Views&color=0e75b6&style=flat" alt="himmel-ext" /> 
