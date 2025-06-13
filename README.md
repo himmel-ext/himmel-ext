@@ -1,10 +1,10 @@
 # 👋 Halo, Saya [Nama Anda]! 
 
-[![Header](https://github.com/[username]/[username]/blob/main/assets/header-github.png)](https://your-portfolio-link.com)
+[![Header](https://github.com/himmel-ext/himmel-ext/blob/main/assets/header-github.png)](https://your-portfolio-link.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[username]&label=Profile%20Views&color=0e75b6&style=flat" alt="[username]" /> 
-  <a href="https://twitter.com/[username]"><img src="https://img.shields.io/twitter/follow/[username]?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
+  <img src="https://komarev.com/ghpvc/?username=himmel-ext&label=Profile%20Views&color=0e75b6&style=flat" alt="himmel-ext" /> 
+  <a href="https://twitter.com/himmel-ext"><img src="https://img.shields.io/twitter/follow/himmel-ext?logo=twitter&style=flat-square" alt="Twitter Follow"/></a>
 </p>
 
 ## 🧑‍💻 Tentang Saya
@@ -41,23 +41,23 @@
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himmel-ext&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmel-ext&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=dracula" alt="[username]" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himmel-ext&theme=dracula" alt="himmel-ext" />
 </p>
 
 ## 🌐 Media Sosial
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/[username])
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/[username])
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@[username])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/himmel-ext)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/himmel-ext)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@himmel-ext)
 
 ## 🏆 Pencapaian
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=[username]&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himmel-ext&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✍️ Blog Terbaru
 <!-- BLOG-POST-LIST:START -->
@@ -66,5 +66,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/[username]" alt="Total Stars">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/himmel-ext" alt="Total Stars">
 </p>
