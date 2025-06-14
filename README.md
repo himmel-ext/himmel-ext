@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [Nama Anda]! 
+# 👋 Halo, Saya Himmel! 
 
 [![Header](https://avatars.githubusercontent.com/u/216211112?v=4)](https://www.himmel.web.id)
 
@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 Tentang Saya
 
-- 🔭 Saat ini mengerjakan: [Proyek Menarik]
-- 🌱 Sedang mempelajari: [Teknologi Terbaru]
-- 👯 Ingin berkolaborasi di: [Jenis Proyek]
-- 💬 Tanya saya tentang: [Keahlian Anda]
-- 📫 Cara menghubungi: [email/medsos]
-- ⚡ Fakta menarik: [Fakta unik tentang Anda]
+- 🔭 Saat ini mengerjakan: Web Portofolio
+- 🌱 Sedang mempelajari: Next.js
+- 👯 Ingin berkolaborasi di: Google Company
+- 💬 Tanya saya tentang: Coding
+- 📫 Cara menghubungi: himmel.ext@gmail.com
+- ⚡ Fakta menarik: -
 
 ## 🛠️ Teknologi & Tools
 
@@ -61,8 +61,8 @@
 
 ## ✍️ Blog Terbaru
 <!-- BLOG-POST-LIST:START -->
-- [Judul Postingan 1](https://your-blog.com/post1)
-- [Judul Postingan 2](https://your-blog.com/post2)
+- [My Portfolio](https://himmel.web.id)
+- [My Portfolio](https://himmel.web.id)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
